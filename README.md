@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="ai-security-glossary" width="100%"></p>
+
 # AI Security Glossary · Yapay Zekâ Güvenliği Sözlüğü
 
 **A bilingual (Türkçe + English) reference for AI/LLM security terminology — every term mapped to [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/llm-top-10/) and [MITRE ATLAS](https://atlas.mitre.org/) where applicable.**
