@@ -1,0 +1,24 @@
+{
+  "title": "ai-security-glossary",
+  "description": "A bilingual (TR+EN) glossary of AI/LLM security terms.",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "glossary",
+    "Turkish",
+    "terminology"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "access_right": "open",
+  "publication_type": "report"
+}
