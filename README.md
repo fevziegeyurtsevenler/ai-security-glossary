@@ -339,3 +339,21 @@ Pair the markup with stable heading anchors, one canonical URL per term, and cle
 Content licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/) © Fevzi Ege Yurtsevenler — reuse with attribution.
 
 <sub>Part of open research on Turkish- and multilingual-first LLM security. If a definition here helped, a star helps others find it — and a PR makes it more accurate.</sub>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [Türkçe Yapay Zekâ Güvenliği Sözlüğü — 40 Terim Tek Sayfada](https://altaysec.com.tr/arastirmalar/turkce-yapay-zeka-guvenligi-sozlugu) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_ai_security_glossary_2026,
+  author = {{AltaySec}},
+  title  = {ai-security-glossary},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/ai-security-glossary}
+}
+```
